@@ -1,0 +1,16 @@
+body{
+    background-color: #17191C;
+}
+p, ul, li{
+    color: #C1C7CB;
+}
+a{
+    color: #dbcd02;
+    text-decoration: none;
+}
+strong{
+    color:#ffffff;
+}
+h1, h2, h3, h4{
+    color:#ffffff;
+}
